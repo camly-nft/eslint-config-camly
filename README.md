@@ -11,7 +11,7 @@ Camly Eslint config with:
 ## Usage
 
 ```
-npx install-peerdeps --dev @camly-nft/camly-eslint-config
+npx install-peerdeps --dev @camly/eslint-config-camly
 ```
 
 Add `"extends": "@camly/eslint-config-camly"` to your eslint config file.
